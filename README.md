@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leandro Andrade
 - 👀 I’m interested in learn a lot about coding !!
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning React
 - 👀 I’m looking to collaborate on some projects.
 - 📫 How to reach me => andradle@hotmail.com
 
